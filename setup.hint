@@ -1,0 +1,4 @@
+category: Xfce
+requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libxfce4util4 libxfcegui4_4 xfce4-panel
+sdesc: "Xfce timer panel plugin"
+ldesc: "Simple timer plugin for the Xfce panel"

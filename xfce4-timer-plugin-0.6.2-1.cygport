@@ -1,0 +1,4 @@
+inherit xfce4
+
+
+PATCH_URI="0.6.2-as-needed.patch"
