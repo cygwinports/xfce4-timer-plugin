@@ -1,0 +1,8 @@
+inherit xfce4
+
+NAME="xfce4-timer-plugin"
+VERSION=1.5.0
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce timer panel plugin"
+DESCRIPTION="Simple timer plugin for the Xfce panel"
